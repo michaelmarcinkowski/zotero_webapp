@@ -1,6 +1,6 @@
 {
     "name": "zotero.marcinkowski",
-    "description": "description of Zotero",
+    "description": "Webapp to access Zotero online account.",
     "architecture": "all",
     "title": "Zotero",
     "hooks": {
@@ -9,7 +9,7 @@
             "desktop": "Zotero.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.2",
     "maintainer": "Michael Marcinkowski <marcinkowski@gmail.com>",
     "framework": "ubuntu-sdk-15.04"
 }
