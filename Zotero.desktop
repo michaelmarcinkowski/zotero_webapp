@@ -3,7 +3,7 @@ Name=Zotero
 Comment=webapp for Zotero
 Type=Application
 Icon=Zotero.png
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https://www.zotero.org/* https://www.zotero.org/user/login/?fullsite=0 %u
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https://www.zotero.org/* https://www.zotero.org/user/login/?fullsite=0 %u
 Terminal=false
 X-Ubuntu-Touch=true
 

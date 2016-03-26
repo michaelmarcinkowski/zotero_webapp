@@ -9,7 +9,7 @@
             "desktop": "Zotero.desktop"
         }
     },
-    "version": "0.2",
+    "version": "0.3",
     "maintainer": "Michael Marcinkowski <marcinkowski@gmail.com>",
     "framework": "ubuntu-sdk-15.04"
 }
